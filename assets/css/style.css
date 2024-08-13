@@ -1,0 +1,13 @@
+
+body{
+ margin: 0;
+ padding: 0;
+ font-family: 'Open Sans', sans-serif;
+}
+footer{
+    display: flex;
+    height:184px ;
+    padding: 0px;
+    margin: 0px;
+
+}
